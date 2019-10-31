@@ -1067,3 +1067,8 @@
 - Place: Delhi, India
 - Bio: Learner, Programmer
 - GitHub: [ayush163](https://github.com/ayush163)
+
+#### Name: [Reed Rack](https://github.com/redrack)
+- Place: Paris, France
+- Bio: IT-writer
+- GitHub: [redrack](https://github.com/redrack)
